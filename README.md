@@ -145,6 +145,7 @@ You can see the parameters that they require by looking into their `MLproject` f
 
 ### Links to GitHub repository and Weights and Biases
 [https://github.com/mournhart/Project-Build-an-ML-Pipeline-Starter/tree/main](https://github.com/mournhart/Project-Build-an-ML-Pipeline-Starter/tree/main)
+
 [https://wandb.ai/wcshek-n-a/nyc_airbnb](https://wandb.ai/wcshek-n-a/nyc_airbnb)
 
 
