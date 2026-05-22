@@ -15,6 +15,7 @@ In this project you will build such a pipeline.
   * [The configuration](#the-configuration)
   * [Running the entire pipeline or just a selection of steps](#Running-the-entire-pipeline-or-just-a-selection-of-steps)
   * [Pre-existing components](#pre-existing-components)
+  * [Links to GitHub repository and Weights and Biases](#links-to-github-repository-and-weights-and-biases)
 
 ## Preliminary steps
 
@@ -141,6 +142,11 @@ You can see the parameters that they require by looking into their `MLproject` f
 
 - `get_data`: downloads the data. [MLproject](https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter/blob/main/components/get_data/MLproject)
 - `train_val_test_split`: segrgate the data (splits the data) [MLproject](https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter/blob/main/components/train_val_test_split/MLproject)
+
+### Links to GitHub repository and Weights and Biases
+[https://github.com/mournhart/Project-Build-an-ML-Pipeline-Starter/tree/main](https://github.com/mournhart/Project-Build-an-ML-Pipeline-Starter/tree/main)
+[https://wandb.ai/wcshek-n-a/nyc_airbnb](https://wandb.ai/wcshek-n-a/nyc_airbnb)
+
 
 ## In case of errors
 
